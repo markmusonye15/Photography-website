@@ -18,18 +18,21 @@ nav ul {
   justify-content: flex-end;
   align-items: center;
   list-style: none;
-  background-color: aqua;
+  background-color: yellow;
 }
 .section_one {
   height: 200px;
-  display: flex;
-  align-items: center;
-  gap: 4px;
+  display: list-item;
+  align-items: normal;
+  gap: 15px;
   justify-content: space-evenly;
+  border-spacing: 10px;
 }
 img {
   width: 220px;
 }
 body {
   background-image: url(/root/photography/Photography-website/images/supercaryard.jpg);
+  background-size: cover;
+  background-position: center;
 }
