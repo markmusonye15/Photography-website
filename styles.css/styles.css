@@ -18,7 +18,7 @@ nav ul {
   justify-content: flex-end;
   align-items: center;
   list-style: none;
-  background-color: yellow;
+  background-color: blue;
 }
 .section_one {
   height: 200px;
@@ -29,10 +29,11 @@ nav ul {
   border-spacing: 10px;
 }
 img {
-  width: 220px;
+  width: 20px;
 }
 body {
-  background-image: url(/root/photography/Photography-website/images/supercaryard.jpg);
-  background-size: cover;
+  background-image: url("https://www.google.com/imgres?q=super%20cars%20yard%20photo&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F74%2Fe0%2Fec%2F74e0ec3290d1a45a4509aeb47cc2bc90.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F536913586806646193%2F&docid=n2TfBQt-6CSiOM&tbnid=WA2S6LEIKX9TkM&vet=12ahUKEwjqsOWjpomLAxV49rsIHY1SDTgQM3oECHgQAA..i&w=736&h=490&hcb=2&ved=2ahUKEwjqsOWjpomLAxV49rsIHY1SDTgQM3oECHgQAA");
+
   background-position: center;
+  background-repeat: no-repeat;
 }
