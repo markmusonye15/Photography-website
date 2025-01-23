@@ -31,4 +31,5 @@ nav ul {
 img {
   width: 220px;
   padding: 5px;
+  align-items: flex-end;
 }
