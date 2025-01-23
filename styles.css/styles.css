@@ -36,4 +36,5 @@ img {
   align-items: flex-end;
   list-style: none;
   border-image: fill;
+  word-spacing: normal;
 }
