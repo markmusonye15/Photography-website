@@ -25,7 +25,7 @@ nav ul {
   height: 200px;
   display: list-item;
   align-items: normal;
-  gap: 15px;
+  gap: 60px;
   justify-content: space-evenly;
   border-spacing: 10px;
   list-style: none;
@@ -37,4 +37,20 @@ img {
   list-style: none;
   border-image: fill;
   word-spacing: normal;
+}
+main {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  border: 5px;
+  padding: 20px;
+  margin: 10px;
+  font-style: normal;
+  font-size: large;
+}
+p {
+  padding: 5px;
+  margin: 5px;
+  font-style: italic;
 }
