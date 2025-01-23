@@ -28,6 +28,7 @@ nav ul {
   gap: 15px;
   justify-content: space-evenly;
   border-spacing: 10px;
+  list-style: none;
 }
 img {
   width: 220px;
