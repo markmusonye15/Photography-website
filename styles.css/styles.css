@@ -33,4 +33,5 @@ img {
   padding: 5px;
   align-items: flex-end;
   list-style: none;
+  border-image: fill;
 }
